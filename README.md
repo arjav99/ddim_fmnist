@@ -22,7 +22,7 @@ diffusion-model/
 │   └── fashion_mnist_diffusion/
 │
 ├── checkpoint.pth
-├── train.py
+├── ddim_fmnist.py
 ├── requirements.txt
 ├── README.md
 └── training_progress.gif
